@@ -1,0 +1,9 @@
+.select{
+    width: 25vw;
+}
+
+@media only screen and (max-width: 782px) {
+    .select{
+        width: 85vw;
+    }
+}
